@@ -7,6 +7,7 @@ Hello, my name is Peyton Cysewski. This repository will be filled with notes fro
 ## Table of Contents
 
 - [Reading Notes 01](reading-01.md)
+- [Reading Notes 02](reading-02.md)
 
 
 
