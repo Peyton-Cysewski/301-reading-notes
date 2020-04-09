@@ -9,6 +9,7 @@ Hello, my name is Peyton Cysewski. This repository will be filled with notes fro
 - [Reading Notes 01](reading-01.md)
 - [Reading Notes 02](reading-02.md)
 - [Reading Notes 03](reading-03.md)
+- [Reading Notes 04](reading-04.md)
 
 
 

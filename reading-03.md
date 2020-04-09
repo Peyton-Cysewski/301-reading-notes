@@ -24,7 +24,7 @@ Note: Some browsers may not support a couple of these property values.
 - `align-content:` - determines the alignment on the cross axis and helps deal with leftover space between items vertically. Its values are: ` align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;`.
 Note: Some browsers may not support a couple of these property values.
 
-### Child Properties
+### Child Properties - The Flex Items
 
 - `order: <integer>;` - defines the order in which the items appear in a flex container. The default value is 0 and the items should normally appear in the order that they are in on the html unless otherwise specified.
 - `flex-grow: <number>;` - allows a flex item to grow (if necessary) to a specifed number that corresponds to a proportion to other items and will take up the appropriate amount of space.
