@@ -21,7 +21,7 @@ Hello, my name is Peyton Cysewski. This repository will be filled with notes fro
 - [Reading Notes 13](reading-13.md)
 - [Reading Notes 14a](reading-14a.md)
 - [Reading Notes 14b](reading-14b.md)
-
+- [Reading Notes 15](reading-15.md)
 
 
 #### Link to author's page [here](https://github.com/Peyton-Cysewski).
